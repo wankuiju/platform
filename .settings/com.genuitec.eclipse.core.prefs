@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/resources/stencilset.json,src/main/webapp/WEB-INF/classes/stencilset.json
+validator.Revalidate=true
+validator.Unchecked=

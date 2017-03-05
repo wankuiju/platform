@@ -5,7 +5,7 @@
 <html style="overflow-x:auto;overflow-y:auto;">
 <head>
 	<title><sitemesh:title/></title>
-	<%@include file="/WEB-INF/views/include/easyui.jsp" %>
+	<%@include file="/WEB-INF/views/include/head.jsp" %>
 	<sitemesh:head/>
 </head>
 <body>
